@@ -1,0 +1,12 @@
+{
+  "name": "Typescript, React, NextJS  - Boilerplate",
+  "short_name": "React Avançado",
+  "icons": [
+   
+  ],
+  "background_color": "#06092B",
+  "description": "Boilerlate utilizando Typescript, React, NextJS e Styled Components!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
